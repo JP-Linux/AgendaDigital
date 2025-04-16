@@ -1,0 +1,54 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Arquivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+.nb-gradle/
+
+# Build automático do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Arquivos de log
+*.log
+*.hprof
+hs_err_pid*
+
+# Banco de dados local e backups
+*.db
+*.sql
+*.mdb
+*.sdf
+*.jar
+
+# Arquivos de ambiente e configurações sensíveis
+.env
+config.properties
+application.yml
+*.keystore
+*.jks
+
+# Arquivos compilados
+*.class
+*.war
+*.ear
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+~$*
